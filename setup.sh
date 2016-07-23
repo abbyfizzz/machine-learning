@@ -9,3 +9,6 @@ pip install quandl
 pip install pandas
 
 pip install sklearn
+
+pip install numpy
+
