@@ -6,12 +6,3 @@
     file from the setup.sh deals with installing the framework which are to been used in appication of machine learning 
     
     
-    feel free to contact me for more suggestion through 
-    email
-      -vasanthkumar@outlook.com
-      -abbyfizzz@gmail.com
-    social network
-      -https://www.linkedin.com/in/abbyfizzz
-      -https://www.facebook.com/abbyfizzz
-      -https://www.twitter.com/abbyfizzz
-
